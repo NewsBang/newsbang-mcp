@@ -40,7 +40,7 @@ Add the following configuration to your MCP settings:
 
 To use Newsbang MCP, you'll need to obtain your API key:
 
-👉 **[Get your API key here](https://www.newsbang.com/mcp/usage)**
+👉 **[Get your API key here with one more click](https://www.newsbang.com/mcp/usage)**
 
 Replace `xxxxxxxxx` in the configuration above with your actual API key.
 
