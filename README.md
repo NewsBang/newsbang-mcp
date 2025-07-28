@@ -24,7 +24,7 @@ Add the following configuration to your MCP settings:
             "command": "npx",
             "args": [
                 "mcp-remote",
-                "https://www.newsbang.com/mcp"
+                "https://mcp.newsbang.com/mcp"
             ]
         }
     }
