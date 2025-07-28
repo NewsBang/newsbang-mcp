@@ -13,7 +13,7 @@ Newsbang MCP is a powerful Model Context Protocol (MCP) server that provides acc
 *See the trends. Seek the opportunity.*  
 *Newsbang – Transforming News into Value.*
 
-## 📦 1. Installation & Configuration
+## 📦 Installation & Configuration
 
 Add the following configuration to your MCP settings:
 
@@ -24,26 +24,12 @@ Add the following configuration to your MCP settings:
             "command": "npx",
             "args": [
                 "mcp-remote",
-                "https://www.newsbang.com/mcp",
-                "--header",
-                "Authorization:${AUTH_HEADER}"
-            ],
-            "env": {
-                "AUTH_HEADER": "Bearer xxxxxxxxx"
-            }
+                "https://www.newsbang.com/mcp"
+            ]
         }
     }
 }
 ```
-
-## 🔑 2. Getting Your API Key
-
-To use Newsbang MCP, you'll need to obtain your API key:
-
-👉 **[Get your API key here with one more click](https://www.newsbang.com/mcp/usage)**
-
-Replace `xxxxxxxxx` in the configuration above with your actual API key.
-
 
 ---
 
