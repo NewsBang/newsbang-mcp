@@ -40,7 +40,7 @@ Add the following configuration to your MCP settings:
 2. Use `get_news_deep_report_and_analysis` to get detailed insights on key stories
 3. Combine the information for comprehensive investment analysis
 
-![demo](pics/demo.jpg)
+<img src="pics/demo.jpg" alt="demo" width="300" height="auto">
 
 ### B. Graduating Student Example
 > **I'm a graduating college student. What news today is relevant to me**
