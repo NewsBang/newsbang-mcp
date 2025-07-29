@@ -30,6 +30,25 @@ Add the following configuration to your MCP settings:
     }
 }
 ```
+## 📋 Examples
+
+### A. Investment Research Example
+> **I'm heavily invested in NVIDIA. Can you search for recent NVIDIA news and provide deep analysis of the most important stories?**
+
+**Explanation:** Your agent will:
+1. Use `search_news` to find recent NVIDIA-related articles
+2. Use `get_news_deep_report_and_analysis` to get detailed insights on key stories
+3. Combine the information for comprehensive investment analysis
+
+![demo](pics/demo.jpg)
+
+### B. Graduating Student Example
+> **I'm a graduating college student. What news today is relevant to me**
+
+**Explanation:** Your agent will:
+1. Use `get_today_top_news` to get current headlines about job market, economy, and industry trends
+2. Use `search_news` to find specific news about graduate employment, internships, or career opportunities
+3. Use `get_news_deep_report_and_analysis` to get detailed insights on job market trends and career advice
 
 ---
 
