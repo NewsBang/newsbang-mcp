@@ -17,6 +17,9 @@ Newsbang MCP is a powerful Model Context Protocol (MCP) server that provides acc
 
 Add the following configuration to your MCP settings:
 
+**Note:** This MCP server has integrated authorization protocol. You will be prompted to log in when using the service for the first time to ensure secure access to news intelligence features.
+
+
 ```json
 {
     "mcpServers": {
